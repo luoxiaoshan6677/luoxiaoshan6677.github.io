@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "罗霄单 北京大学/北大化学系"
+title: "罗霄单 北京大学/北大外国语学院 硕士研究生"
 author_profile: true
 redirect_from: 
   - /about/
