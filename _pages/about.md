@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "罗霄单 北京大学/北大化学系"
 author_profile: true
 redirect_from: 
   - /about/
